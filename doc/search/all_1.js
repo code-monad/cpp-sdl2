@@ -1,11 +1,11 @@
 var searchData=
 [
-  ['a',['a',['../classsdl_1_1_pixel.html#a66154c6da6a638919c05861180e9f644',1,'sdl::Pixel']]],
-  ['access',['access',['../classsdl_1_1_texture.html#ab9798bcb42becc63febc23abccc1ed83',1,'sdl::Texture']]],
-  ['add_5fevents',['add_events',['../namespacesdl.html#a58cc0e214db55765f2ba9753b8b393a6',1,'sdl::add_events(std::vector&lt; Event &gt; const &amp;events, Uint32 minType, Uint32 maxType)'],['../namespacesdl.html#a8a30ae662deff3fdf259411e3faca001',1,'sdl::add_events(std::vector&lt; Event &gt; const &amp;events)'],['../namespacesdl.html#ad823e68498db8763a58eeb8dc66e85ad',1,'sdl::add_events(std::vector&lt; Event &gt; const &amp;events, Uint32 type)']]],
-  ['add_5fwatcher',['add_watcher',['../structsdl_1_1_event_filter.html#a772c76314af9b953fddfe2b8115bdfcb',1,'sdl::EventFilter']]],
-  ['adevice',['adevice',['../unionsdl_1_1_event.html#af7f50ff7dc4fb84c4379de1700135fdd',1,'sdl::Event']]],
-  ['alphamod',['alphamod',['../classsdl_1_1_surface.html#ab0c23d4b00df9738d704ef4a0a7334aa',1,'sdl::Surface::alphamod()'],['../classsdl_1_1_texture.html#a3d09242cc77a98fb54171a7874fddbd1',1,'sdl::Texture::alphamod()']]],
-  ['as_5fuint',['as_uint',['../classsdl_1_1_color.html#a40609840c7124522f992518a4b59bda9',1,'sdl::Color::as_uint(SDL_PixelFormat const &amp;format) const'],['../classsdl_1_1_color.html#a1b9c5efda567e69d00a464c37dcab15b',1,'sdl::Color::as_uint(Uint32 format) const']]],
-  ['at',['at',['../classsdl_1_1_surface_1_1_lock.html#a61df2152b1bce1e1f3509131a9d41819',1,'sdl::Surface::Lock::at(Vec2i const &amp;pos) const'],['../classsdl_1_1_surface_1_1_lock.html#a8d59bdc3add7cdea4b86097652c91f45',1,'sdl::Surface::Lock::at(size_t x, size_t y) const'],['../classsdl_1_1_texture_1_1_lock.html#a230fec7efff09a155dda5d813b85bd59',1,'sdl::Texture::Lock::at(Vec2i const &amp;pos) const'],['../classsdl_1_1_texture_1_1_lock.html#ae3cd914b68efa8b8256903f326725d8f',1,'sdl::Texture::Lock::at(size_t x, size_t y) const']]]
+  ['b',['b',['../classsdl_1_1_pixel.html#ab24445fe04def34d0460ffdde5a5b6a2',1,'sdl::Pixel']]],
+  ['black',['Black',['../classsdl_1_1_color.html#adbab444305a73388515227b47779496f',1,'sdl::Color']]],
+  ['blendmode',['blendmode',['../classsdl_1_1_surface.html#a33b560990cd47329ecce16a346722f2a',1,'sdl::Surface::blendmode()'],['../classsdl_1_1_texture.html#a374f81fadb81495fec232c89f5cb3dd2',1,'sdl::Texture::blendmode()']]],
+  ['blit_5fon',['blit_on',['../classsdl_1_1_surface.html#a7b07a01612227f56de3be38a703171d2',1,'sdl::Surface::blit_on(Rect const &amp;src, Surface &amp;surf, Rect const &amp;dst) const '],['../classsdl_1_1_surface.html#a2e2045dd56962a3ef26ac3a852eaf901',1,'sdl::Surface::blit_on(Surface &amp;surf, Rect const &amp;dst) const ']]],
+  ['blue',['Blue',['../classsdl_1_1_color.html#aa133f09325e6cae0867d12d3d7bf49d2',1,'sdl::Color']]],
+  ['botleft',['botleft',['../classsdl_1_1_rect.html#aa54cef65f3881fa99599a3763724b28e',1,'sdl::Rect']]],
+  ['botright',['botright',['../classsdl_1_1_rect.html#ab87a2171b9a0e69dfdb828f526f70b19',1,'sdl::Rect']]],
+  ['button',['button',['../unionsdl_1_1_event.html#aa0dc54a404a3c5e608f89f7cf0c04119',1,'sdl::Event']]]
 ];

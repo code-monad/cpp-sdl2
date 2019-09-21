@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['enable',['Enable',['../unionsdl_1_1_event.html#a2b06e83e673f072c9b3620be037a0ddda2faec1f9f8cc7f8f40d521c4dd574f49',1,'sdl::Event']]]
+  ['adaptive_5fvsync',['adaptive_vsync',['../classsdl_1_1_window.html#a2918cff432e49ef4716a8a5be8ed7dd7a784e64be0340a9f030a95865a05b8cc6',1,'sdl::Window']]]
 ];
