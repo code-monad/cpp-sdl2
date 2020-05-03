@@ -1,9 +1,9 @@
 #pragma once
 
-#include "SDL_version.h"
+#include <SDL2/SDL_version.h>
 #if SDL_VERSION_ATLEAST(2, 0, 10)
 
-#include "SDL_cpuinfo.h"
+#include <SDL2/SDL_cpuinfo.h>
 #include <memory>
 
 namespace sdl::simd

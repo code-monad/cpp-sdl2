@@ -1,7 +1,7 @@
 #pragma once
 
 #include "exception.hpp"
-#include <SDL_timer.h>
+#include <SDL2/SDL_timer.h>
 #include <cassert>
 #include <chrono>
 #include <cstdint>

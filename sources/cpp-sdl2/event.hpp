@@ -2,14 +2,14 @@
 
 #include "exception.hpp"
 
-#include <SDL.h>
-#include <SDL_events.h>
+#include <SDL2/SDL.h>
+#include <SDL2/SDL_events.h>
 
 #include <functional>
 #include <map>
 #include <vector>
 
-#include <begin_code.h> // use SDL2 packing
+#include <SDL2/begin_code.h> // use SDL2 packing
 
 // Visual Studio 2019 has became TOO pedantic about member
 // initialization. Supress IntelliSence CppCoreGuideline
@@ -378,7 +378,7 @@ public:
 };
 } // namespace sdl
 
-#include <close_code.h>
+#include <SDL2/close_code.h>
 
 #if _MSC_VER >= 1910
 #pragma warning(pop)

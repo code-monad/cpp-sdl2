@@ -3,7 +3,7 @@
 #include "exception.hpp"
 #include "surface.hpp"
 #include "window.hpp"
-#include <SDL.h>
+#include <SDL2/SDL.h>
 
 namespace sdl::Mouse
 {

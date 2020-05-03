@@ -4,7 +4,7 @@
 #include <string>
 #include <string_view>
 
-#include <SDL_error.h>
+#include <SDL2/SDL_error.h>
 
 ///Define to deactivate exception support
 #ifdef CPP_SDL2_NOEXCEPTIONS

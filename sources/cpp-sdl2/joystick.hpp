@@ -3,7 +3,7 @@
 #include "exception.hpp"
 #include "haptic.hpp"
 #include "vec2.hpp"
-#include <SDL_joystick.h>
+#include <SDL2/SDL_joystick.h>
 #include <cassert>
 
 namespace sdl

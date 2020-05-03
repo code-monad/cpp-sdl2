@@ -6,8 +6,8 @@
 #include "surface.hpp"
 #include "texture.hpp"
 
-#include <SDL.h>
-#include <SDL_render.h>
+#include <SDL2/SDL.h>
+#include <SDL2/SDL_render.h>
 
 #include <utility>
 #include <vector>

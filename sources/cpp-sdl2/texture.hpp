@@ -7,7 +7,7 @@
 #include "surface.hpp"
 #include "vec2.hpp"
 
-#include <SDL_render.h>
+#include <SDL2/SDL_render.h>
 
 #include <string>
 
